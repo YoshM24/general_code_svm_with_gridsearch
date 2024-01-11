@@ -1,4 +1,4 @@
-# general_code_svm_with_gridsearch
+# About the Project
 
 This is a code I have simplified and generalized based on a code I used previously to create a SVM model with GridSearch.
 
